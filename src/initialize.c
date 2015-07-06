@@ -37,4 +37,5 @@ int instructions() {
 
     while (getch() == ERR);
     erase();
+    return 0;
 }
